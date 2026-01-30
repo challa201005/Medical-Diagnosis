@@ -57,7 +57,7 @@ All training loss plots are saved in the `loss_plots/` directory to visually ins
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KALYANRAM-005/Medical-Diagnosis.git
+   git clone https://github.com/challa201005/Medical-Diagnosis.git
    cd Medical-Diagnosis
    ```
 
